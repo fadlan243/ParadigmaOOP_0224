@@ -15,6 +15,11 @@ public :
 };
 
 int main() {
-    Mahasiswa mhs;
+    Mahasiswa mhs; //ocject
+
+    mhs.nim = 2021;
+    mhs.nama = "MasGatot";
+    mhs.nilai = 89.5;
     
+
 }
